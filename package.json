@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KentaHara/training-jest/issues"
   },
-  "homepage": "https://github.com/KentaHara/training-jest#readme"
+  "homepage": "https://github.com/KentaHara/training-jest#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
